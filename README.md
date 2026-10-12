@@ -8,7 +8,7 @@ I build tools for Windows power users, games with Python, and portfolio sites wi
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Contingency Command Center Lite](https://github.com/p0grammer/Contingency-Command-Center-CCC-Lite) | Windows system recovery utility — one-click "Panic Button" for hung sub-systems | PowerShell |
+| [Contingency Command Center](https://github.com/p0grammer/Contingency-Command-Center-CCC) | Windows system recovery utility — one-click "Panic Button" for hung sub-systems | PowerShell |
 | [Math RPG](https://github.com/p0grammer/math-rpg) | RPG where you battle enemies by solving math equations | Python, Pygame, SymPy |
 | [PyPapers](https://github.com/p0grammer/pypapers) | Wallpaper manager for Windows with Streamlit UI | Python, Streamlit |
 | [Portfolio](https://github.com/p0grammer/arkajeetm) | Personal portfolio site | TypeScript, Vercel |
